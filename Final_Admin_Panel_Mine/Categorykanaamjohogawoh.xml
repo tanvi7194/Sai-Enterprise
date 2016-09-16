@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<productAttributes><FIELDNAME>Laptop Name<DataType>Text_Value_Tool</DataType></FIELDNAME><FIELDNAME>In the box<DataType>Multiple_Selection_Tool<Value>Charger</Value><Value>Bag</Value><Value>Manual</Value></DataType></FIELDNAME><FIELDNAME>Charger<DataType>Single_Selection_Tool<Value>Yes</Value><Value>No</Value></DataType></FIELDNAME><FIELDNAME>Keyur<DataType>Text_Value_Tool</DataType></FIELDNAME><FIELDNAME>Keyur<DataType>Text_Value_Tool</DataType></FIELDNAME></productAttributes>

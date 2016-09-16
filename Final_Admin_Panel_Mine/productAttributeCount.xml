@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<productAttributes><FIELDNAME>F1<DataType>Text_Value_Tool</DataType></FIELDNAME><FIELDNAME>F2<DataType>Single_Selection_Tool<Value>Yes</Value><Value>No</Value></DataType></FIELDNAME><FIELDNAME>F3<DataType>Multiple_Selection_Tool<Value>A</Value><Value>B</Value><Value>C</Value></DataType></FIELDNAME><FIELDNAME>F4<DataType>Text_Value_Tool</DataType></FIELDNAME></productAttributes>
